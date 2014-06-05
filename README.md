@@ -1,6 +1,6 @@
 # Elasticsearch Box for Wercker
 
-This is an [Elasticsearch] box which can be used at [Wercker].
+This is an [Elasticsearch] box which can be used at [Wercker]. It uses atm Elasticsearch 1.2
 
 [Elasticsearch]: http://www.elasticsearch.org/
 [Wercker]: http://wercker.com/
